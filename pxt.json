@@ -1,5 +1,5 @@
 {
-    "name": "radio_trigger_robot - Copy",
+    "name": "radio_trigger_robot",
     "description": "",
     "dependencies": {
         "core": "*",
