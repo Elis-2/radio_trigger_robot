@@ -62,4 +62,9 @@ input.onButtonPressed(Button.AB, function () {
 })
 input.onLogoEvent(TouchButtonEvent.LongPressed, function() {
     test = !test
+    if (test){
+        basic.showString("T")
+    }else{
+        basic.showString("E")
+    }
 })
